@@ -3,7 +3,10 @@ This project is about Machine Learning-based Question Answering System built wit
 
 
 # Features
-Input any paragraph of text
-Ask questions related to the paragraph
-Get accurate, contextual answers using a pre-trained BERT model
-Clean and simple Streamlit-based web interface
+>Input any paragraph of text.
+
+>Ask questions related to the paragraph.
+
+>Get accurate, contextual answers using a pre-trained BERT model.
+
+>Clean and simple Streamlit-based web interface.
